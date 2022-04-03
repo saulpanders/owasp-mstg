@@ -127,7 +127,7 @@ That said, we **strongly encourage [further translations of the MASVS](https://g
 
 ## About Hybrid Apps
 
-Please note that the MSTG focuses primarily on native apps. These are apps built with Java or Kotlin using the Android SDK for Android or built with Swift or Objective-C using the Apple SDKs for iOS. Apps using frameworks such as Nativescript, React-native, Xamarin, Cordova, etc. are not within the main focus of the MSTG. However, some essential controls, such as certificate pinning, have been explained already for some of these platforms.
+Please note that the MSTG focuses primarily on native apps. These are apps built with Java or Kotlin using the Android SDK for Android or built with Swift or Objective-C using the Apple SDKs for iOS. Apps using frameworks such as Nativescript, React-native, Xamarin, Cordova, etc. are not within the main focus of the MSTG. However, some essential controls, such as certificate pinning, have been explained already for some of these platforms. 
 
 If you are looking for more security recommendations on this field, feel free to take a look and contribute to the work-in-progress Google sheets based on the compliancy checklist 1.1.2:
 
